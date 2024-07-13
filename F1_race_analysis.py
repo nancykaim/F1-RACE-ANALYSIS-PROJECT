@@ -71,10 +71,7 @@ def time_to_seconds(time_str):
     except ValueError:
         return 0
 
-# def agetoyears(dob):
-#     yr = dob[0:4]
-#     age = 2024-int(yr) 
-#     return age 
+ 
 
 def calculate_age_by_year(dob,race_year):
     birth_year = int(dob[:4])

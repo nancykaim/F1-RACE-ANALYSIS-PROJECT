@@ -1,0 +1,382 @@
+,year,name,raceId,driverId,statusId,positionOrder,points,number,code,dob,nationality,status,team_name,drivName,polepos
+0,2023,Bahrain GP,1098,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+1,2023,Bahrain GP,1098,815,1,2,18.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,2
+2,2023,Bahrain GP,1098,4,1,3,15.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,5
+3,2023,Bahrain GP,1098,832,1,4,12.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,4
+4,2023,Bahrain GP,1098,1,1,5,10.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,7
+5,2023,Bahrain GP,1098,840,1,6,8.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,8
+6,2023,Bahrain GP,1098,822,1,8,4.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,12
+7,2023,Bahrain GP,1098,842,1,9,2.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,20
+8,2023,Bahrain GP,1098,848,1,10,1.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,15
+9,2023,Bahrain GP,1098,852,1,11,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,14
+10,2023,Bahrain GP,1098,858,11,12,0.0,2,SAR,2000-12-31,American,+1 Lap,Williams ,Logan Sargeant,16
+11,2023,Bahrain GP,1098,825,11,13,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,17
+12,2023,Bahrain GP,1098,807,11,15,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,10
+13,2023,Bahrain GP,1098,846,12,17,0.0,4,NOR,1999-11-13,British,+2 Laps,Mc Laren ,Lando Norris,11
+14,2023,Bahrain GP,1098,839,26,18,0.0,31,OCO,1996-09-17,French,Mechanical,Alpine ,Esteban Ocon,9
+15,2023,Bahrain GP,1098,844,5,19,0.0,16,LEC,1997-10-16,Monegasque,Engine,Scuderia Ferrari ,Charles Leclerc,3
+16,2023,Bahrain GP,1098,857,10,20,0.0,81,PIA,2001-04-06,Australian,Electrical,Mc Laren ,Oscar Piastri,18
+17,2023,Saudi Arabian GP,1099,815,1,1,25.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,1
+18,2023,Saudi Arabian GP,1099,830,1,2,19.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,15
+19,2023,Saudi Arabian GP,1099,4,1,3,15.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,3
+20,2023,Saudi Arabian GP,1099,1,1,5,10.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,8
+21,2023,Saudi Arabian GP,1099,832,1,6,8.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,5
+22,2023,Saudi Arabian GP,1099,844,1,7,6.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,2
+23,2023,Saudi Arabian GP,1099,839,1,8,4.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,7
+24,2023,Saudi Arabian GP,1099,842,1,9,2.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,10
+25,2023,Saudi Arabian GP,1099,825,1,10,1.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,13
+26,2023,Saudi Arabian GP,1099,852,1,11,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,16
+27,2023,Saudi Arabian GP,1099,807,1,12,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,11
+28,2023,Saudi Arabian GP,1099,857,1,15,0.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,9
+29,2023,Saudi Arabian GP,1099,858,1,16,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,20
+30,2023,Saudi Arabian GP,1099,846,1,17,0.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,19
+31,2023,Saudi Arabian GP,1099,822,11,18,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,14
+32,2023,Saudi Arabian GP,1099,848,23,19,0.0,23,ALB,1996-03-23,Thai,Brakes,Williams ,Alexander Albon,17
+33,2023,Saudi Arabian GP,1099,840,5,20,0.0,18,STR,1998-10-29,Canadian,Engine,Aston Martin ,Lance Stroll,6
+34,2023,Australian GP,1100,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+35,2023,Australian GP,1100,1,1,2,18.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,3
+36,2023,Australian GP,1100,4,1,3,15.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,4
+37,2023,Australian GP,1100,840,1,4,12.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,6
+38,2023,Australian GP,1100,815,1,5,11.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,20
+39,2023,Australian GP,1100,846,1,6,8.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,13
+40,2023,Australian GP,1100,807,1,7,6.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,10
+41,2023,Australian GP,1100,857,1,8,4.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,16
+42,2023,Australian GP,1100,852,1,10,1.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,12
+43,2023,Australian GP,1100,822,1,11,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,19
+44,2023,Australian GP,1100,832,1,12,0.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,5
+45,2023,Australian GP,1100,842,4,13,0.0,10,GAS,1996-02-07,French,Collision,Alpine ,Pierre Gasly,9
+46,2023,Australian GP,1100,839,4,14,0.0,31,OCO,1996-09-17,French,Collision,Alpine ,Esteban Ocon,11
+47,2023,Australian GP,1100,858,4,16,0.0,2,SAR,2000-12-31,American,Collision,Williams ,Logan Sargeant,18
+48,2023,Australian GP,1100,825,3,17,0.0,20,MAG,1992-10-05,Danish,Accident,Hass ,Kevin Magnussen,14
+49,2023,Australian GP,1100,848,3,19,0.0,23,ALB,1996-03-23,Thai,Accident,Williams ,Alexander Albon,8
+50,2023,Australian GP,1100,844,4,20,0.0,16,LEC,1997-10-16,Monegasque,Collision,Scuderia Ferrari ,Charles Leclerc,7
+51,2023,Azerbaijan GP,1101,815,1,1,25.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,3
+52,2023,Azerbaijan GP,1101,830,1,2,18.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,2
+53,2023,Azerbaijan GP,1101,844,1,3,15.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,1
+54,2023,Azerbaijan GP,1101,4,1,4,12.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,6
+55,2023,Azerbaijan GP,1101,832,1,5,10.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,4
+56,2023,Azerbaijan GP,1101,1,1,6,8.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,5
+57,2023,Azerbaijan GP,1101,840,1,7,6.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,9
+58,2023,Azerbaijan GP,1101,846,1,9,2.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,7
+59,2023,Azerbaijan GP,1101,852,1,10,1.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,8
+60,2023,Azerbaijan GP,1101,857,1,11,0.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,10
+61,2023,Azerbaijan GP,1101,848,1,12,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,13
+62,2023,Azerbaijan GP,1101,825,1,13,0.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,18
+63,2023,Azerbaijan GP,1101,842,1,14,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,19
+64,2023,Azerbaijan GP,1101,839,1,15,0.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,12
+65,2023,Azerbaijan GP,1101,858,1,16,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,15
+66,2023,Azerbaijan GP,1101,807,11,17,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,17
+67,2023,Azerbaijan GP,1101,822,11,18,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,14
+68,2023,Miami GP,1102,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,9
+69,2023,Miami GP,1102,815,1,2,18.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,1
+70,2023,Miami GP,1102,4,1,3,15.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,2
+71,2023,Miami GP,1102,832,1,5,10.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,3
+72,2023,Miami GP,1102,1,1,6,8.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,13
+73,2023,Miami GP,1102,844,1,7,6.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,7
+74,2023,Miami GP,1102,842,1,8,4.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,5
+75,2023,Miami GP,1102,839,1,9,2.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,8
+76,2023,Miami GP,1102,825,1,10,1.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,4
+77,2023,Miami GP,1102,852,1,11,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,17
+78,2023,Miami GP,1102,840,1,12,0.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,18
+79,2023,Miami GP,1102,822,1,13,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,10
+80,2023,Miami GP,1102,848,1,14,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,11
+81,2023,Miami GP,1102,807,1,15,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,12
+82,2023,Miami GP,1102,846,1,17,0.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,16
+83,2023,Miami GP,1102,857,11,19,0.0,81,PIA,2001-04-06,Australian,+1 Lap,Mc Laren ,Oscar Piastri,19
+84,2023,Miami GP,1102,858,11,20,0.0,2,SAR,2000-12-31,American,+1 Lap,Williams ,Logan Sargeant,20
+85,2023,Monaco GP,1104,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+86,2023,Monaco GP,1104,4,1,2,18.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,2
+87,2023,Monaco GP,1104,839,1,3,15.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,4
+88,2023,Monaco GP,1104,1,1,4,13.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,6
+89,2023,Monaco GP,1104,844,1,6,8.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,3
+90,2023,Monaco GP,1104,842,1,7,6.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,7
+91,2023,Monaco GP,1104,832,1,8,4.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,5
+92,2023,Monaco GP,1104,846,11,9,2.0,4,NOR,1999-11-13,British,+1 Lap,Mc Laren ,Lando Norris,10
+93,2023,Monaco GP,1104,857,11,10,1.0,81,PIA,2001-04-06,Australian,+1 Lap,Mc Laren ,Oscar Piastri,11
+94,2023,Monaco GP,1104,822,11,11,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,15
+95,2023,Monaco GP,1104,848,11,14,0.0,23,ALB,1996-03-23,Thai,+1 Lap,Williams ,Alexander Albon,13
+96,2023,Monaco GP,1104,852,12,15,0.0,22,TSU,2000-05-11,Japanese,+2 Laps,Alpha Tauri ,Yuki Tsunoda,9
+97,2023,Monaco GP,1104,815,12,16,0.0,11,PER,1990-01-26,Mexican,+2 Laps,RedBull,Sergio Pérez,20
+98,2023,Monaco GP,1104,807,12,17,0.0,27,HUL,1987-08-19,German,+2 Laps,Hass,Nico Hülkenberg,18
+99,2023,Monaco GP,1104,858,12,18,0.0,2,SAR,2000-12-31,American,+2 Laps,Williams ,Logan Sargeant,16
+100,2023,Monaco GP,1104,825,130,19,0.0,20,MAG,1992-10-05,Danish,Collision damage,Hass ,Kevin Magnussen,17
+101,2023,Monaco GP,1104,840,3,20,0.0,18,STR,1998-10-29,Canadian,Accident,Aston Martin ,Lance Stroll,14
+102,2023,Spanish GP,1105,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+103,2023,Spanish GP,1105,1,1,2,18.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,5
+104,2023,Spanish GP,1105,815,1,4,12.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,11
+105,2023,Spanish GP,1105,832,1,5,10.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,2
+106,2023,Spanish GP,1105,840,1,6,8.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,6
+107,2023,Spanish GP,1105,4,1,7,6.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,9
+108,2023,Spanish GP,1105,839,1,8,4.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,7
+109,2023,Spanish GP,1105,842,1,10,1.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,4
+110,2023,Spanish GP,1105,844,1,11,0.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,19
+111,2023,Spanish GP,1105,852,1,12,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,15
+112,2023,Spanish GP,1105,857,11,13,0.0,81,PIA,2001-04-06,Australian,+1 Lap,Mc Laren ,Oscar Piastri,10
+113,2023,Spanish GP,1105,807,11,15,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,8
+114,2023,Spanish GP,1105,848,11,16,0.0,23,ALB,1996-03-23,Thai,+1 Lap,Williams ,Alexander Albon,18
+115,2023,Spanish GP,1105,846,11,17,0.0,4,NOR,1999-11-13,British,+1 Lap,Mc Laren ,Lando Norris,3
+116,2023,Spanish GP,1105,825,11,18,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,17
+117,2023,Spanish GP,1105,822,11,19,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,16
+118,2023,Spanish GP,1105,858,11,20,0.0,2,SAR,2000-12-31,American,+1 Lap,Williams ,Logan Sargeant,20
+119,2023,Canadian GP,1106,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+120,2023,Canadian GP,1106,4,1,2,18.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,3
+121,2023,Canadian GP,1106,1,1,3,15.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,4
+122,2023,Canadian GP,1106,844,1,4,12.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,11
+123,2023,Canadian GP,1106,832,1,5,10.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,8
+124,2023,Canadian GP,1106,815,1,6,9.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,12
+125,2023,Canadian GP,1106,848,1,7,6.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,10
+126,2023,Canadian GP,1106,839,1,8,4.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,6
+127,2023,Canadian GP,1106,840,1,9,2.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,13
+128,2023,Canadian GP,1106,822,1,10,1.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,15
+129,2023,Canadian GP,1106,857,1,11,0.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,9
+130,2023,Canadian GP,1106,842,1,12,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,17
+131,2023,Canadian GP,1106,846,1,13,0.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,7
+132,2023,Canadian GP,1106,852,1,14,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,16
+133,2023,Canadian GP,1106,807,11,15,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,2
+134,2023,Canadian GP,1106,825,11,17,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,14
+135,2023,Canadian GP,1106,858,5,20,0.0,2,SAR,2000-12-31,American,Engine,Williams ,Logan Sargeant,19
+136,2023,Austrian GP,1107,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+137,2023,Austrian GP,1107,844,1,2,18.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,2
+138,2023,Austrian GP,1107,815,1,3,15.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,15
+139,2023,Austrian GP,1107,846,1,4,12.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,4
+140,2023,Austrian GP,1107,4,1,5,10.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,7
+141,2023,Austrian GP,1107,832,1,6,8.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,3
+142,2023,Austrian GP,1107,1,1,8,4.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,5
+143,2023,Austrian GP,1107,840,1,9,2.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,6
+144,2023,Austrian GP,1107,842,1,10,1.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,9
+145,2023,Austrian GP,1107,848,1,11,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,10
+146,2023,Austrian GP,1107,858,11,13,0.0,2,SAR,2000-12-31,American,+1 Lap,Williams ,Logan Sargeant,18
+147,2023,Austrian GP,1107,839,11,14,0.0,31,OCO,1996-09-17,French,+1 Lap,Alpine ,Esteban Ocon,12
+148,2023,Austrian GP,1107,822,11,15,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,14
+149,2023,Austrian GP,1107,857,11,16,0.0,81,PIA,2001-04-06,Australian,+1 Lap,Mc Laren ,Oscar Piastri,13
+150,2023,Austrian GP,1107,825,11,18,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,19
+151,2023,Austrian GP,1107,852,11,19,0.0,22,TSU,2000-05-11,Japanese,+1 Lap,Alpha Tauri ,Yuki Tsunoda,16
+152,2023,Austrian GP,1107,807,75,20,0.0,27,HUL,1987-08-19,German,Power loss,Hass,Nico Hülkenberg,8
+153,2023,British GP,1108,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+154,2023,British GP,1108,846,1,2,18.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,2
+155,2023,British GP,1108,1,1,3,15.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,7
+156,2023,British GP,1108,857,1,4,12.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,3
+157,2023,British GP,1108,815,1,6,8.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,16
+158,2023,British GP,1108,4,1,7,6.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,9
+159,2023,British GP,1108,848,1,8,4.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,8
+160,2023,British GP,1108,844,1,9,2.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,4
+161,2023,British GP,1108,832,1,10,1.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,5
+162,2023,British GP,1108,858,1,11,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,14
+163,2023,British GP,1108,822,1,12,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,15
+164,2023,British GP,1108,807,1,13,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,11
+165,2023,British GP,1108,840,1,14,0.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,12
+166,2023,British GP,1108,852,1,16,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,17
+167,2023,British GP,1108,842,130,18,0.0,10,GAS,1996-02-07,French,Collision damage,Alpine ,Pierre Gasly,10
+168,2023,British GP,1108,825,5,19,0.0,20,MAG,1992-10-05,Danish,Engine,Hass ,Kevin Magnussen,20
+169,2023,British GP,1108,839,44,20,0.0,31,OCO,1996-09-17,French,Oil leak,Alpine ,Esteban Ocon,13
+170,2023,Hungarian GP,1109,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,2
+171,2023,Hungarian GP,1109,846,1,2,18.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,3
+172,2023,Hungarian GP,1109,815,1,3,15.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,9
+173,2023,Hungarian GP,1109,1,1,4,12.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,1
+174,2023,Hungarian GP,1109,857,1,5,10.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,4
+175,2023,Hungarian GP,1109,844,1,7,6.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,6
+176,2023,Hungarian GP,1109,832,1,8,4.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,11
+177,2023,Hungarian GP,1109,4,1,9,2.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,8
+178,2023,Hungarian GP,1109,840,11,10,1.0,18,STR,1998-10-29,Canadian,+1 Lap,Aston Martin ,Lance Stroll,14
+179,2023,Hungarian GP,1109,848,11,11,0.0,23,ALB,1996-03-23,Thai,+1 Lap,Williams ,Alexander Albon,16
+180,2023,Hungarian GP,1109,822,11,12,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,7
+181,2023,Hungarian GP,1109,817,11,13,0.0,3,RIC,1989-07-01,Australian,+1 Lap,Alpha Tauri ,Daniel Ricciardo,13
+182,2023,Hungarian GP,1109,807,11,14,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,10
+183,2023,Hungarian GP,1109,852,11,15,0.0,22,TSU,2000-05-11,Japanese,+1 Lap,Alpha Tauri ,Yuki Tsunoda,17
+184,2023,Hungarian GP,1109,825,11,17,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,19
+185,2023,Hungarian GP,1109,858,31,18,0.0,2,SAR,2000-12-31,American,Retired,Williams ,Logan Sargeant,20
+186,2023,Hungarian GP,1109,839,130,19,0.0,31,OCO,1996-09-17,French,Collision damage,Alpine ,Esteban Ocon,12
+187,2023,Hungarian GP,1109,842,130,20,0.0,10,GAS,1996-02-07,French,Collision damage,Alpine ,Pierre Gasly,15
+188,2023,Belgian GP,1110,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+189,2023,Belgian GP,1110,815,1,2,18.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,3
+190,2023,Belgian GP,1110,844,1,3,15.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,2
+191,2023,Belgian GP,1110,1,1,4,13.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,4
+192,2023,Belgian GP,1110,4,1,5,10.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,9
+193,2023,Belgian GP,1110,846,1,7,6.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,7
+194,2023,Belgian GP,1110,839,1,8,4.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,15
+195,2023,Belgian GP,1110,840,1,9,2.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,10
+196,2023,Belgian GP,1110,852,1,10,1.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,11
+197,2023,Belgian GP,1110,842,1,11,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,12
+198,2023,Belgian GP,1110,822,1,12,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,14
+199,2023,Belgian GP,1110,848,1,14,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,16
+200,2023,Belgian GP,1110,825,1,15,0.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,13
+201,2023,Belgian GP,1110,817,1,16,0.0,3,RIC,1989-07-01,Australian,Finished,Alpha Tauri ,Daniel Ricciardo,19
+202,2023,Belgian GP,1110,858,1,17,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,18
+203,2023,Belgian GP,1110,807,1,18,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,20
+204,2023,Belgian GP,1110,832,130,19,0.0,55,SAI,1994-09-01,Spanish,Collision damage,Scuderia Ferrari ,Carlos Sainz,5
+205,2023,Belgian GP,1110,857,130,20,0.0,81,PIA,2001-04-06,Australian,Collision damage,Mc Laren ,Oscar Piastri,6
+206,2023,Dutch GP,1111,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+207,2023,Dutch GP,1111,4,1,2,19.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,5
+208,2023,Dutch GP,1111,842,1,3,15.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,12
+209,2023,Dutch GP,1111,815,1,4,12.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,7
+210,2023,Dutch GP,1111,832,1,5,10.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,6
+211,2023,Dutch GP,1111,1,1,6,8.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,13
+212,2023,Dutch GP,1111,846,1,7,6.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,2
+213,2023,Dutch GP,1111,848,1,8,4.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,4
+214,2023,Dutch GP,1111,857,1,9,2.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,8
+215,2023,Dutch GP,1111,839,1,10,1.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,17
+216,2023,Dutch GP,1111,840,1,11,0.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,11
+217,2023,Dutch GP,1111,807,1,12,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,15
+218,2023,Dutch GP,1111,822,1,14,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,19
+219,2023,Dutch GP,1111,852,1,15,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,14
+220,2023,Dutch GP,1111,825,1,16,0.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,18
+221,2023,Dutch GP,1111,844,140,19,0.0,16,LEC,1997-10-16,Monegasque,Undertray,Scuderia Ferrari ,Charles Leclerc,9
+222,2023,Dutch GP,1111,858,3,20,0.0,2,SAR,2000-12-31,American,Accident,Williams ,Logan Sargeant,10
+223,2023,Italian GP,1112,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,2
+224,2023,Italian GP,1112,815,1,2,18.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,5
+225,2023,Italian GP,1112,832,1,3,15.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,1
+226,2023,Italian GP,1112,844,1,4,12.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,3
+227,2023,Italian GP,1112,1,1,6,8.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,8
+228,2023,Italian GP,1112,848,1,7,6.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,6
+229,2023,Italian GP,1112,846,1,8,4.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,9
+230,2023,Italian GP,1112,4,1,9,2.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,10
+231,2023,Italian GP,1112,822,1,10,1.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,14
+232,2023,Italian GP,1112,857,1,12,0.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,7
+233,2023,Italian GP,1112,858,1,13,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,15
+234,2023,Italian GP,1112,842,1,15,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,17
+235,2023,Italian GP,1112,840,1,16,0.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,20
+236,2023,Italian GP,1112,807,11,17,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,13
+237,2023,Italian GP,1112,825,11,18,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,19
+238,2023,Italian GP,1112,839,38,19,0.0,31,OCO,1996-09-17,French,Steering,Alpine ,Esteban Ocon,18
+239,2023,Italian GP,1112,852,5,20,0.0,22,TSU,2000-05-11,Japanese,Engine,Alpha Tauri ,Yuki Tsunoda,11
+240,2023,Singapore GP,1113,832,1,1,25.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,1
+241,2023,Singapore GP,1113,846,1,2,18.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,4
+242,2023,Singapore GP,1113,1,1,3,16.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,5
+243,2023,Singapore GP,1113,844,1,4,12.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,3
+244,2023,Singapore GP,1113,830,1,5,10.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,11
+245,2023,Singapore GP,1113,842,1,6,8.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,12
+246,2023,Singapore GP,1113,857,1,7,6.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,17
+247,2023,Singapore GP,1113,815,1,8,4.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,13
+248,2023,Singapore GP,1113,825,1,10,1.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,6
+249,2023,Singapore GP,1113,848,1,11,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,14
+250,2023,Singapore GP,1113,807,1,13,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,9
+251,2023,Singapore GP,1113,858,1,14,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,18
+252,2023,Singapore GP,1113,4,1,15,0.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,7
+253,2023,Singapore GP,1113,822,39,17,0.0,77,BOT,1989-08-28,Finnish,Technical,Alfa Romeo ,Valtteri Bottas,16
+254,2023,Singapore GP,1113,839,6,18,0.0,31,OCO,1996-09-17,French,Gearbox,Alpine ,Esteban Ocon,8
+255,2023,Singapore GP,1113,852,4,19,0.0,22,TSU,2000-05-11,Japanese,Collision,Alpha Tauri ,Yuki Tsunoda,15
+256,2023,Singapore GP,1113,840,54,20,0.0,18,STR,1998-10-29,Canadian,Withdrew,Aston Martin ,Lance Stroll,20
+257,2023,Japanese GP,1114,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+258,2023,Japanese GP,1114,846,1,2,18.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,3
+259,2023,Japanese GP,1114,857,1,3,15.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,2
+260,2023,Japanese GP,1114,844,1,4,12.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,4
+261,2023,Japanese GP,1114,1,1,5,10.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,7
+262,2023,Japanese GP,1114,832,1,6,8.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,6
+263,2023,Japanese GP,1114,4,1,8,4.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,10
+264,2023,Japanese GP,1114,839,1,9,2.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,14
+265,2023,Japanese GP,1114,842,1,10,1.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,12
+266,2023,Japanese GP,1114,852,11,12,0.0,22,TSU,2000-05-11,Japanese,+1 Lap,Alpha Tauri ,Yuki Tsunoda,9
+267,2023,Japanese GP,1114,807,11,14,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,18
+268,2023,Japanese GP,1114,825,11,15,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,15
+269,2023,Japanese GP,1114,848,130,16,0.0,23,ALB,1996-03-23,Thai,Collision damage,Williams ,Alexander Albon,13
+270,2023,Japanese GP,1114,858,130,17,0.0,2,SAR,2000-12-31,American,Collision damage,Williams ,Logan Sargeant,20
+271,2023,Japanese GP,1114,840,65,18,0.0,18,STR,1998-10-29,Canadian,Rear wing,Aston Martin ,Lance Stroll,17
+272,2023,Japanese GP,1114,815,130,19,0.0,11,PER,1990-01-26,Mexican,Collision damage,RedBull,Sergio Pérez,5
+273,2023,Japanese GP,1114,822,130,20,0.0,77,BOT,1989-08-28,Finnish,Collision damage,Alfa Romeo ,Valtteri Bottas,16
+274,2023,Qatar GP,1115,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+275,2023,Qatar GP,1115,857,1,2,18.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,6
+276,2023,Qatar GP,1115,846,1,3,15.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,10
+277,2023,Qatar GP,1115,844,1,5,10.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,5
+278,2023,Qatar GP,1115,4,1,6,8.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,4
+279,2023,Qatar GP,1115,839,1,7,6.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,8
+280,2023,Qatar GP,1115,822,1,8,4.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,9
+281,2023,Qatar GP,1115,815,1,10,1.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,13
+282,2023,Qatar GP,1115,840,1,11,0.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,17
+283,2023,Qatar GP,1115,842,1,12,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,7
+284,2023,Qatar GP,1115,848,1,13,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,14
+285,2023,Qatar GP,1115,825,11,14,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,19
+286,2023,Qatar GP,1115,852,11,15,0.0,22,TSU,2000-05-11,Japanese,+1 Lap,Alpha Tauri ,Yuki Tsunoda,11
+287,2023,Qatar GP,1115,807,11,16,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,15
+288,2023,Qatar GP,1115,858,139,18,0.0,2,SAR,2000-12-31,American,Illness,Williams ,Logan Sargeant,16
+289,2023,Qatar GP,1115,1,4,19,0.0,44,HAM,1985-01-07,British,Collision,Mercedes ,Lewis Hamilton,3
+290,2023,Qatar GP,1115,832,95,20,0.0,55,SAI,1994-09-01,Spanish,Fuel leak,Scuderia Ferrari ,Carlos Sainz,12
+291,2023,United States GP,1116,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,6
+292,2023,United States GP,1116,846,1,2,18.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,2
+293,2023,United States GP,1116,832,1,3,15.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,4
+294,2023,United States GP,1116,815,1,4,12.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,9
+295,2023,United States GP,1116,842,1,6,8.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,7
+296,2023,United States GP,1116,840,1,7,6.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,19
+297,2023,United States GP,1116,852,1,8,5.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,11
+298,2023,United States GP,1116,848,1,9,2.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,18
+299,2023,United States GP,1116,858,1,10,1.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,20
+300,2023,United States GP,1116,807,1,11,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,16
+301,2023,United States GP,1116,822,1,12,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,13
+302,2023,United States GP,1116,825,11,14,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,14
+303,2023,United States GP,1116,817,11,15,0.0,3,RIC,1989-07-01,Australian,+1 Lap,Alpha Tauri ,Daniel Ricciardo,15
+304,2023,United States GP,1116,4,140,16,0.0,14,ALO,1981-07-29,Spanish,Undertray,Aston Martin ,Fernando Alonso,17
+305,2023,United States GP,1116,857,21,17,0.0,81,PIA,2001-04-06,Australian,Radiator,Mc Laren ,Oscar Piastri,10
+306,2023,United States GP,1116,839,130,18,0.0,31,OCO,1996-09-17,French,Collision damage,Alpine ,Esteban Ocon,8
+307,2023,United States GP,1116,1,2,19,0.0,44,HAM,1985-01-07,British,Disqualified,Mercedes ,Lewis Hamilton,3
+308,2023,United States GP,1116,844,2,20,0.0,16,LEC,1997-10-16,Monegasque,Disqualified,Scuderia Ferrari ,Charles Leclerc,1
+309,2023,Mexico City GP,1117,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,3
+310,2023,Mexico City GP,1117,1,1,2,19.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,6
+311,2023,Mexico City GP,1117,844,1,3,15.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,1
+312,2023,Mexico City GP,1117,832,1,4,12.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,2
+313,2023,Mexico City GP,1117,846,1,5,10.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,19
+314,2023,Mexico City GP,1117,817,1,7,6.0,3,RIC,1989-07-01,Australian,Finished,Alpha Tauri ,Daniel Ricciardo,4
+315,2023,Mexico City GP,1117,857,1,8,4.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,7
+316,2023,Mexico City GP,1117,848,1,9,2.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,14
+317,2023,Mexico City GP,1117,839,1,10,1.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,16
+318,2023,Mexico City GP,1117,842,1,11,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,11
+319,2023,Mexico City GP,1117,852,1,12,0.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,15
+320,2023,Mexico City GP,1117,807,1,13,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,12
+321,2023,Mexico City GP,1117,822,1,15,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,9
+322,2023,Mexico City GP,1117,858,31,16,0.0,2,SAR,2000-12-31,American,Retired,Williams ,Logan Sargeant,20
+323,2023,Mexico City GP,1117,840,130,17,0.0,18,STR,1998-10-29,Canadian,Collision damage,Aston Martin ,Lance Stroll,18
+324,2023,Mexico City GP,1117,4,54,18,0.0,14,ALO,1981-07-29,Spanish,Withdrew,Aston Martin ,Fernando Alonso,13
+325,2023,Mexico City GP,1117,825,3,19,0.0,20,MAG,1992-10-05,Danish,Accident,Hass ,Kevin Magnussen,17
+326,2023,Mexico City GP,1117,815,130,20,0.0,11,PER,1990-01-26,Mexican,Collision damage,RedBull,Sergio Pérez,5
+327,2023,São Paulo GP,1118,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+328,2023,São Paulo GP,1118,846,1,2,19.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,7
+329,2023,São Paulo GP,1118,4,1,3,15.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,4
+330,2023,São Paulo GP,1118,815,1,4,12.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,9
+331,2023,São Paulo GP,1118,840,1,5,10.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,3
+332,2023,São Paulo GP,1118,832,1,6,8.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,8
+333,2023,São Paulo GP,1118,842,1,7,6.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,13
+334,2023,São Paulo GP,1118,1,1,8,4.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,5
+335,2023,São Paulo GP,1118,852,1,9,2.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,16
+336,2023,São Paulo GP,1118,839,11,10,1.0,31,OCO,1996-09-17,French,+1 Lap,Alpine ,Esteban Ocon,12
+337,2023,São Paulo GP,1118,858,11,11,0.0,2,SAR,2000-12-31,American,+1 Lap,Williams ,Logan Sargeant,19
+338,2023,São Paulo GP,1118,807,11,12,0.0,27,HUL,1987-08-19,German,+1 Lap,Hass,Nico Hülkenberg,11
+339,2023,São Paulo GP,1118,817,11,13,0.0,3,RIC,1989-07-01,Australian,+1 Lap,Alpha Tauri ,Daniel Ricciardo,17
+340,2023,São Paulo GP,1118,857,12,14,0.0,81,PIA,2001-04-06,Australian,+2 Laps,Mc Laren ,Oscar Piastri,10
+341,2023,São Paulo GP,1118,822,5,16,0.0,77,BOT,1989-08-28,Finnish,Engine,Alfa Romeo ,Valtteri Bottas,18
+342,2023,São Paulo GP,1118,825,4,18,0.0,20,MAG,1992-10-05,Danish,Collision,Hass ,Kevin Magnussen,14
+343,2023,São Paulo GP,1118,848,4,19,0.0,23,ALB,1996-03-23,Thai,Collision,Williams ,Alexander Albon,15
+344,2023,São Paulo GP,1118,844,5,20,0.0,16,LEC,1997-10-16,Monegasque,Engine,Scuderia Ferrari ,Charles Leclerc,2
+345,2023,Las Vegas GP,1119,830,1,1,25.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,3
+346,2023,Las Vegas GP,1119,844,1,2,18.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,1
+347,2023,Las Vegas GP,1119,815,1,3,15.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,12
+348,2023,Las Vegas GP,1119,839,1,4,12.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,17
+349,2023,Las Vegas GP,1119,840,1,5,10.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,14
+350,2023,Las Vegas GP,1119,832,1,6,8.0,55,SAI,1994-09-01,Spanish,Finished,Scuderia Ferrari ,Carlos Sainz,2
+351,2023,Las Vegas GP,1119,1,1,7,6.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,11
+352,2023,Las Vegas GP,1119,4,1,9,2.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,10
+353,2023,Las Vegas GP,1119,857,1,10,2.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,19
+354,2023,Las Vegas GP,1119,842,1,11,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,5
+355,2023,Las Vegas GP,1119,848,1,12,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,6
+356,2023,Las Vegas GP,1119,825,1,13,0.0,20,MAG,1992-10-05,Danish,Finished,Hass ,Kevin Magnussen,9
+357,2023,Las Vegas GP,1119,817,1,14,0.0,3,RIC,1989-07-01,Australian,Finished,Alpha Tauri ,Daniel Ricciardo,15
+358,2023,Las Vegas GP,1119,858,1,16,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,7
+359,2023,Las Vegas GP,1119,822,1,17,0.0,77,BOT,1989-08-28,Finnish,Finished,Alfa Romeo ,Valtteri Bottas,8
+360,2023,Las Vegas GP,1119,852,6,18,0.0,22,TSU,2000-05-11,Japanese,Gearbox,Alpha Tauri ,Yuki Tsunoda,20
+361,2023,Las Vegas GP,1119,807,5,19,0.0,27,HUL,1987-08-19,German,Engine,Hass,Nico Hülkenberg,13
+362,2023,Las Vegas GP,1119,846,3,20,0.0,4,NOR,1999-11-13,British,Accident,Mc Laren ,Lando Norris,16
+363,2023,Abu Dhabi GP,1120,830,1,1,26.0,33,VER,1997-09-30,Dutch,Finished,RedBull,Max Verstappen,1
+364,2023,Abu Dhabi GP,1120,844,1,2,18.0,16,LEC,1997-10-16,Monegasque,Finished,Scuderia Ferrari ,Charles Leclerc,2
+365,2023,Abu Dhabi GP,1120,815,1,4,12.0,11,PER,1990-01-26,Mexican,Finished,RedBull,Sergio Pérez,9
+366,2023,Abu Dhabi GP,1120,846,1,5,10.0,4,NOR,1999-11-13,British,Finished,Mc Laren ,Lando Norris,5
+367,2023,Abu Dhabi GP,1120,857,1,6,8.0,81,PIA,2001-04-06,Australian,Finished,Mc Laren ,Oscar Piastri,3
+368,2023,Abu Dhabi GP,1120,4,1,7,6.0,14,ALO,1981-07-29,Spanish,Finished,Aston Martin ,Fernando Alonso,7
+369,2023,Abu Dhabi GP,1120,852,1,8,4.0,22,TSU,2000-05-11,Japanese,Finished,Alpha Tauri ,Yuki Tsunoda,6
+370,2023,Abu Dhabi GP,1120,1,1,9,2.0,44,HAM,1985-01-07,British,Finished,Mercedes ,Lewis Hamilton,11
+371,2023,Abu Dhabi GP,1120,840,1,10,1.0,18,STR,1998-10-29,Canadian,Finished,Aston Martin ,Lance Stroll,13
+372,2023,Abu Dhabi GP,1120,817,1,11,0.0,3,RIC,1989-07-01,Australian,Finished,Alpha Tauri ,Daniel Ricciardo,15
+373,2023,Abu Dhabi GP,1120,839,1,12,0.0,31,OCO,1996-09-17,French,Finished,Alpine ,Esteban Ocon,12
+374,2023,Abu Dhabi GP,1120,842,1,13,0.0,10,GAS,1996-02-07,French,Finished,Alpine ,Pierre Gasly,10
+375,2023,Abu Dhabi GP,1120,848,1,14,0.0,23,ALB,1996-03-23,Thai,Finished,Williams ,Alexander Albon,14
+376,2023,Abu Dhabi GP,1120,807,1,15,0.0,27,HUL,1987-08-19,German,Finished,Hass,Nico Hülkenberg,8
+377,2023,Abu Dhabi GP,1120,858,1,16,0.0,2,SAR,2000-12-31,American,Finished,Williams ,Logan Sargeant,20
+378,2023,Abu Dhabi GP,1120,832,31,18,0.0,55,SAI,1994-09-01,Spanish,Retired,Scuderia Ferrari ,Carlos Sainz,16
+379,2023,Abu Dhabi GP,1120,822,11,19,0.0,77,BOT,1989-08-28,Finnish,+1 Lap,Alfa Romeo ,Valtteri Bottas,18
+380,2023,Abu Dhabi GP,1120,825,11,20,0.0,20,MAG,1992-10-05,Danish,+1 Lap,Hass ,Kevin Magnussen,17
